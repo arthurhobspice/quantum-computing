@@ -1,7 +1,9 @@
-# quantum-computing
+# Quantum computing with Qiskit
 
-Some first examples for QC
+This repository contains the results of playing around with the
+Qiskit Python package.
 
-firststeps.ipynb: playing around with the Qiskit Python package
+References:
 
-ibm.ipynb: testing the IBM QC Cloud capabilities
+- [Qiskit](https://qiskit.org/)
+- [Qiskit Textbook](https://qiskit.org/learn/)
